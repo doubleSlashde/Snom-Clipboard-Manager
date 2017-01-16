@@ -10,4 +10,4 @@ Eine Beschreibung zur Bedienung dieses Tools, gibt es in diesem Blogpost [Link f
 
 # Setup Projekt
 
-Zur Verwendung des Setup Projektes wird [diesen Erweiterung für Visual Studio](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.MicrosoftVisualStudio2015InstallerProjects) benötigt.
+Zur Verwendung des Setup Projektes wird [diese Erweiterung für Visual Studio](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.MicrosoftVisualStudio2015InstallerProjects) benötigt.
