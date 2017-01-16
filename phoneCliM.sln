@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnomCliM", "phoneCliM\SnomCliM.csproj", "{D4803931-4832-4F0D-A245-910ADAFB32F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{D99FF9D9-6B70-4640-8D7C-BEA6C6350A03}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PhoneCliMSetup", "SetupPhoneClip\SetupPhoneClip.vdproj", "{755A8717-F5BF-4E8E-BDF7-BEC60CBF05F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4803931-4832-4F0D-A245-910ADAFB32F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4803931-4832-4F0D-A245-910ADAFB32F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4803931-4832-4F0D-A245-910ADAFB32F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4803931-4832-4F0D-A245-910ADAFB32F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D99FF9D9-6B70-4640-8D7C-BEA6C6350A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D99FF9D9-6B70-4640-8D7C-BEA6C6350A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D99FF9D9-6B70-4640-8D7C-BEA6C6350A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D99FF9D9-6B70-4640-8D7C-BEA6C6350A03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{755A8717-F5BF-4E8E-BDF7-BEC60CBF05F8}.Debug|Any CPU.ActiveCfg = Debug
+		{755A8717-F5BF-4E8E-BDF7-BEC60CBF05F8}.Debug|Any CPU.Build.0 = Debug
+		{755A8717-F5BF-4E8E-BDF7-BEC60CBF05F8}.Release|Any CPU.ActiveCfg = Release
+		{755A8717-F5BF-4E8E-BDF7-BEC60CBF05F8}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://fdhtfs01:8080/tfs/doubleslashtfscollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = UnitTests\\UnitTests.csproj
+		SccProjectName1 = UnitTests
+		SccLocalPath1 = UnitTests
+		SccProjectUniqueName2 = SetupPhoneClip\\SetupPhoneClip.vdproj
+		SccProjectName2 = SetupPhoneClip
+		SccLocalPath2 = SetupPhoneClip
+		SccProjectUniqueName3 = phoneCliM\\SnomCliM.csproj
+		SccProjectName3 = phoneCliM
+		SccLocalPath3 = phoneCliM
+	EndGlobalSection
+EndGlobal
