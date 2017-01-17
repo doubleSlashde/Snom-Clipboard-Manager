@@ -11,3 +11,6 @@ Eine Beschreibung zur Bedienung dieses Tools, gibt es in diesem Blogpost [Link f
 # Setup Projekt
 
 Zur Verwendung des Setup Projektes wird [diese Erweiterung für Visual Studio](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.MicrosoftVisualStudio2015InstallerProjects) benötigt.
+
+# API
+Für weitere Änderungen an diesem Projekt, kann diese [API](http://wiki.snom.com/FAQ/Can_I_control_my_snom_phone_remotely) von Snom verwendet werden.
