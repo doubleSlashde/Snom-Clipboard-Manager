@@ -1,0 +1,5 @@
+*htm
+*.user
+.vs/
+phoneCliM/bin/
+phoneCliM/obj/
