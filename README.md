@@ -75,3 +75,36 @@ Nachdem der BalloonTip verschwunden ist, befindet sich auch ein neuer Menüpunk
 Abb.7
 
 
+# Bedienung des SnomCliM
+
+Beim Kopieren oder Ausschneiden einer Telefonnummer oder internen Nummer erscheint wie oben beschrieben ein BalloonTip und ein neuer Menüpunkt wird hinzugefügt.
+Klickt man auf diesen BaloonTip oder den ... anrufen-Button im Menü, so erhält man je nach dem eine der beiden Meldungen wie in Abb.8 oder Abb.9:
+
+(Interne Nummer)
+
+![Abb8](Anleitung/CallInternalMenü.png)
+
+Abb.8
+
+(Externe Nummer)
+
+![Abb9](Anleitung/CallExternalMenü.png)
+
+Abb.9
+
+Über die Meldung wie in Abb.9 hat man entweder die Option bei der Nummer anzurufen oder bei externen Nummern eine Rückwärtssuche im Browser durchzuführen.
+
+
+# "Telefon kann nicht erreicht werden"-Problem beheben.
+
+Es kann vorkommen, dass beim Telefon das Kontaktieren über http nur über die offizielle Weboberfläche und nicht über externe Tools erlaubt ist.
+
+Um in diesem Fall das Telefon kontaktieren zu können, müssen folgende Schritte über das Webinterface unternommen werden:
+
++	Im Browser, die IP Adresse des Telefons eingeben, um auf die Weboberfläche zu kommen.
++	Auf der Weboberfläche unter Advanced->QoS/Security die Option Use hidden tags auf off stellen und speichern (Abb.10).
+
+
+![Abb10](Anleitung/Phone-Settings.PNG)
+Abb.10
+
