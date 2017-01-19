@@ -6,7 +6,7 @@ Egal ob es sich dabei um eine lange externe oder um eine dreistellige interne Nu
 
 Voraussetzung ist ein Snom Telefon der Modellreihe 3xx, 7xx oder 8xx, welches über das Netzwerk erreichbar sein muss.
 
-Den .msi Datei für die Installation gibt es [hier](https://github.com/doubleSlashde/Snom-Clipboard-Manager/tree/master/SetupPhoneClip/Release) 
+Die .msi Datei für die Installation gibt es [hier](https://github.com/doubleSlashde/Snom-Clipboard-Manager/tree/master/SetupPhoneClip/Release) 
 
 # Setup Projekt
 
